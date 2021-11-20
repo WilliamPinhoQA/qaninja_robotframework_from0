@@ -1,7 +1,7 @@
 **Settings***
 Documentation       Switch for ContaLibrary Class
 
-Library     ContaLibrary.py
+Library     app/ContaLibrary.py
 
 **Test Cases***
 ZERO BALANCE
